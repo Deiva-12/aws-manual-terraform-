@@ -1,9 +1,18 @@
-# aws-manual-terraform-
 # AWS-EC2-Terraform
 
-## EC2 Creation Using AWS Console and Terraform
+AWS EC2 Manual vs Terraform – Hands-on Guide
 
-This README provides a **basic understanding** of AWS core concepts and explains how an EC2 instance can be created **manually using the AWS Console** and **automatically using Terraform**. It focuses on concepts rather than deep technical implementation.
+## Objective
+
+The goal of this task is to:
+
+Learn AWS core concepts
+
+Launch an EC2 instance manually using AWS Console
+
+Provision an EC2 instance using Terraform
+
+Understand the difference between manual AWS setup and Infrastructure as Code (IaC)
 
 ---
 
@@ -92,11 +101,5 @@ The following steps were followed to create an EC2 instance using Terraform:
 5. Initialized Terraform
 6. Created the EC2 instance using Terraform
 
----
 
-## Conclusion
-
-This README provides a **basic-level overview** of AWS EC2 and Terraform. Manual EC2 creation helps understand AWS fundamentals, while Terraform introduces automation and Infrastructure as Code concepts. Both approaches are useful for learning and career growth in cloud and DevOps roles.
-
----
 
